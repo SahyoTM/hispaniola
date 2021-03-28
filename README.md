@@ -1,4 +1,6 @@
-# hispaniola
+## HISPANIOLA
+
+Just one landing page for a small project for GLite
 
 ## Build Setup
 
